@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="prodNameDimen">20sp</dimen>
+    <dimen name="prodDescDimen">20sp</dimen>
+    <dimen name="prodQuantityDimen">20sp</dimen>
+    <dimen name="priceTextViewDimen">20sp</dimen>
+    <dimen name="linearLayoutDimen">8dp</dimen>
+    <dimen name="relativeDimen">8dp</dimen>
+    <dimen name="itemTextSize">16sp</dimen>
+    <dimen name="quantitySize">16sp</dimen>
+    <dimen name="priceTextSize">16sp</dimen>
+    <dimen name="itemSize">16sp</dimen>
+    <dimen name="qRemainingSize">16sp</dimen>
+</resources>
